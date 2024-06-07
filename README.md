@@ -1,6 +1,6 @@
 
 # :wave: Hi, I'm Matheus Baba
-A software engineer passionate about creating solutions for real-world problems. Based in New Zealand.
+A software engineer passionate about creating solutions for real-world problems, based in New Zealand.
  
 
 # :computer: Tech Stack
