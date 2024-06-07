@@ -1,5 +1,5 @@
 
-# :wave: Hi, I'm Matheus Baba
+# :wave: Hi, I'm Matheus
 A software engineer passionate about creating solutions for real-world problems, based in New Zealand.
  
 
